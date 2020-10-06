@@ -1,0 +1,15 @@
+{"result": {
+      "count":1,
+      "data":[{
+              "id":1,
+              "name":"Randy",
+              "address":"Jakarta"
+              },{
+              "id":2,
+              "name":"Mizuco",
+              "address":"Jakarta"
+              }
+              ]
+          }
+   }
+              
